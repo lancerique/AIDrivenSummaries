@@ -1,0 +1,53 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+0:0:0.0 --> 0:0:31.160
+Kolachalam, Madhu
+And we started working and we'll continue to do that. This one has mobilised that on the application space is where me and Tyson were discussing several things. I just want to understand a little bit more on your perspective on any, any key concern area specifically to you or or I can just go through and start asking some questions in terms of the big picture. So what I'm trying to do is not not just about Jan 2025 readiness of what I'm trying to look at is like what would a three-year road map look like from an app or a digital strategy for Nigeria?
+0:0:32.0 --> 0:0:33.160
+Kolachalam, Madhu
+Or even a four years and then.
+0:0:34.520 --> 0:0:56.520
+Kolachalam, Madhu
+Work towards that and then say OK year one is this year 2 is this and we resource it and and also drive that is that that was what I was pushing these on for look. But Jan is important. Let's also think what happens post Jan and all so that was the context in which I wanted to spend some time and work with you. So does that make sense or do you have a different approach or any thoughts?
+0:1:0.100 --> 0:1:0.500
+Vinha, Fernando
+It's OK.
+0:1:0.490 --> 0:1:11.290
+Barrington, Kyle
+Just some my comment, I think I think a a road map is useful. However, my view is that the priority is on Jan Go live.
+0:1:12.770 --> 0:1:30.450
+Barrington, Kyle
+I think if we can't produce in Jan and the systems can't tell us what's happening and we can't track inventory and stuff, we're spending £27 million for for, I suppose nothing. So A3 year mode map is is great. I see that as a.
+0:1:32.690 --> 0:1:42.770
+Barrington, Kyle
+An add on rather than the the main focus personally, but it's not my not my call that would only be sort of my my viewpoint.
+0:1:44.350 --> 0:1:47.70
+Kolachalam, Madhu
+That's fair game. Now what about others?
+0:1:46.210 --> 0:1:56.90
+Glyn-Jones, Hugh
+Yeah, maybe if I can just add in there as as well. Margie. Sorry, I'm Hugh. We haven't met. And I also hadn't met Nuder yet and and Prem and Jerem, so hi everyone.
+0:1:57.610 --> 0:2:9.170
+Glyn-Jones, Hugh
+Just to agree with what Kyle has said, I mean this has to obviously fit into the overall biz tech aspect of the of the project and I think.
+0:2:10.730 --> 0:2:18.650
+Glyn-Jones, Hugh
+While I agree that the focus is on the production date, we don't want to be developing and putting something in with that as the end date.
+0:2:19.250 --> 0:2:48.130
+Glyn-Jones, Hugh
+When we need a bigger picture of what's going to happen further down the lines as we build now, we are taking that into account. So yes, very much our focus is we have to produce on that date, but let's use the time and building and developing wisely now so that we don't find ourselves halfway through 25 May be making changes because we didn't anticipate something. So just the bigger picture as well then but otherwise certainly agree with Kyle's sense of focus there. That's the critical Mario.
+0:2:49.260 --> 0:2:49.740
+Kolachalam, Madhu
+Sorry.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Madhu Kolachalam initiated a discussion about creating a three or four-year roadmap for an app or digital strategy for Nigeria, emphasizing the importance of planning beyond January 2025. Fernando Vinha agreed with the approach. Kyle Barrington, however, stressed that the priority should be on the January go-live date, viewing the long-term roadmap as an add-on rather than the main focus. Hugh Glyn-Jones agreed with Kyle's focus on the production date but also emphasized the need to consider the bigger picture during development to avoid making changes later on.
