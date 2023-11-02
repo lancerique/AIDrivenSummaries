@@ -1,0 +1,6 @@
+myenv/
+__pycache__/
+*.pyc
+*.log
+*.db
+apikeys/
