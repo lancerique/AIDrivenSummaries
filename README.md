@@ -29,6 +29,13 @@ Once you have your API key:
 
 3. Create a virtual environment:
    
+  ```
+  python -m venv myenv
+
+  ```
+   
+
+   
 4. Activate the virtual environment:
 - On Windows:
   ```
